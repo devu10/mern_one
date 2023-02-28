@@ -1,0 +1,28 @@
+{
+  "name": "mern_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devu10/mern_one.git"
+  },
+  "author": "Devendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devu10/mern_one/issues"
+  },
+  "homepage": "https://github.com/devu10/mern_one#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
